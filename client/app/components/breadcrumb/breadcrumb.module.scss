@@ -1,0 +1,19 @@
+.container {
+    align-items: center;
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.breakcrumbs {
+    margin: 2rem
+}
+
+.breadcrumbs__list {
+    display: flex;
+    padding: 0;
+}
+
+.breadcrumb {
+    list-style: none;
+}

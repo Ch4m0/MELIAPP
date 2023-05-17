@@ -1,0 +1,54 @@
+{
+  "author": { "name": "Abner", "lastname": "Chamorro" },
+  "categories": ["Iphone", "celulares"],
+  "items": [
+    {
+      "id": 1,
+      "title": "Apple iPhone 11 (128 Gb) - Blanco",
+      "price": {
+        "currency": "Ars",
+        "amount": 8791.62,
+        "decimals": 2
+      },
+      "picture": "https://http2.mlstatic.com/D_656499-MLA49612018636_042022-I.jpg",
+      "condition": "new",
+      "free_shipping": false
+    },
+    {
+      "id": 2,
+      "title": "Iphone 12",
+      "price": {
+        "currency": "Ars",
+        "amount": 8791.62,
+        "decimals": 2
+      },
+      "picture": "https://http2.mlstatic.com/D_656499-MLA49612018636_042022-I.jpg",
+      "condition": "new",
+      "free_shipping": false
+    },
+    {
+      "id": 3,
+      "title": "Iphone 12",
+      "price": {
+        "currency": "Ars",
+        "amount": 8791.62,
+        "decimals": 2
+      },
+      "picture": "https://http2.mlstatic.com/D_656499-MLA49612018636_042022-I.jpg",
+      "condition": "new",
+      "free_shipping": false
+    },
+    {
+      "id": 4,
+      "title": "Iphone 12",
+      "price": {
+        "currency": "Ars",
+        "amount": 8791.62,
+        "decimals": 2
+      },
+      "picture": "https://http2.mlstatic.com/D_656499-MLA49612018636_042022-I.jpg",
+      "condition": "new",
+      "free_shipping": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.header {
+    background-color: $primary-color;
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+    align-items: center;
+
+    .container {
+        display: inherit;
+        max-width: 1200px;
+        width: 100%;
+        gap: 2rem;
+    }
+}
