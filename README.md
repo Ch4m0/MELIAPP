@@ -1,4 +1,4 @@
-# Proyecto Client y Server Challenge
+# Proyecto Challenge MELI
 
 Este es un proyecto que consta de un cliente (frontend) y un servidor (API) como parte de un challenge. El cliente (`client`) se ejecuta en el puerto 3001 y el servidor (`server`) en el puerto 3000. Se utilizó Yarn como administrador de paquetes para ambos proyectos.
 
